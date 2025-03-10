@@ -22,10 +22,9 @@ Il a donc besoin de : Mail, SDA BRUTE, CallingLineIdentity (pas obligatoire), Si
 
 <b>Bouton « GET FROM PS » </b>
 
-Il va chercher sur Teams les informations concernant un utilisateur. Le seul champ obligatoire est le Mail.
+Il va chercher sur Teams les informations concernant un utilisateur. Le seul champ obligatoire est le Mail. Il récupère les informations suivantes, demande confirmation si changement, et remplis le fichier tout seul : 
 
--		Il récupère les informations suivantes, demande confirmation si changement, et remplis le fichier tout seul : 
-		PhoneNumber qui va dans SDA BRUTE
+-		PhoneNumber qui va dans SDA BRUTE
 		OnlineVoiceRoutingPolicy qui va dans Policy
 		TenantDialPlan qui va dans DialPlan
 		CallingLineIdentity qui va dans CallingLineIdentity
