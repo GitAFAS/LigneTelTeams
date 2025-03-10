@@ -3,4 +3,4 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 
 
 						
-![image](https://github.com/user-attachments/assets/24af7579-d78b-4414-858e-cc0288414ce8)
+![image](https://github.com/user-attachments/assets/64f08472-acae-414a-84c3-6fb939f0bfdb)
