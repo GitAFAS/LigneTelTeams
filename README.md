@@ -10,11 +10,11 @@ Utilisation :
 
 <b>Bouton « PUSH TO PS »</b>
 Il lance les 5 commandes powershell suivantes : 
-	Connect-MicrosoftTeams : ouverture de la console PSTeams avec droit admin demandé
-	Set-CsPhoneNumberAssignment  : Pour ajout du numéro + direct routing + location
-	Grant-CsOnlineVoiceRoutingPolicy : Pour ajout de la Policy
-	Grant-CsTenantDialPlan : Pour ajout du dialPlan
-	Grant-CsCallingLineIdentity : Pour ajout d’une calling Line Identity 
+		Connect-MicrosoftTeams : ouverture de la console PSTeams avec droit admin demandé
+		Set-CsPhoneNumberAssignment  : Pour ajout du numéro + direct routing + location
+		Grant-CsOnlineVoiceRoutingPolicy : Pour ajout de la Policy
+		Grant-CsTenantDialPlan : Pour ajout du dialPlan
+		Grant-CsCallingLineIdentity : Pour ajout d’une calling Line Identity 
 
 Il a donc besoin de : Mail, SDA BRUTE, CallingLineIdentity (pas obligatoire), Site ID, policy et Dialplan
 
