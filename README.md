@@ -8,7 +8,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 
 ### Description des colonnes du document
 
-Les colonnes en $${\color{red}rouge}$$ sont obligatoire, celles en $${\color{green}verte}$$ sont optionnelles, celles en bleu $${\color{lightblue}bleu}$$ ne sont pas utilisés par les scripts.
+Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{green}verte}$$ sont optionnelles, celles en bleu $${\color{lightblue}bleu}$$ ne sont pas utilisés par les scripts.
 
 | Nom de la colonne  | Description |
 | ------------- | ------------- |
@@ -16,9 +16,9 @@ Les colonnes en $${\color{red}rouge}$$ sont obligatoire, celles en $${\color{gre
 | Nom  | Nom de l'utilisateur  |
 | Prénom | Prénom de l'utilisateur
 | Licence | Licence associée à l'utilisateur |
-| Mail | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
+| $${\color{red}Mail$$ | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
 | SDA | Numéro de téléphone en format human readable | 
-| SDA BRUTE | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
+| $${\color{red}SDA \space BRUTE&& | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
 | CallingLineIdentity | [Stratégie d'identification de l'appelant](https://admin.teams.microsoft.com/policies/callinglineid) (Abrégé en "CLI") comme elle apparait dans la liste colonne **Nom** | 
 | Site ID | [Adresse d'Urgence](https://admin.teams.microsoft.com/locations) de l'emplacement au format xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx | 
 | Policy | [Stratégie de routage des communicatons vocales](https://admin.teams.microsoft.com/policies/teamsonlinevoicerouting) comme elle apparait dans la liste colonne **Nom**  | 
