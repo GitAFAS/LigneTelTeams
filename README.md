@@ -8,7 +8,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 
 ### Description des colonnes du document
 
-Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{green}verte}$$ sont optionnelles, celles en $${\color{lightblue}bleu}$$ ne sont pas utilisés par les scripts.
+Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{green}verte}$$ sont optionnelles, celles en $${\color{lightblue}bleu}$$ ne sont pas utilisées par les scripts.
 
 | Nom de la colonne  | Description |
 | ------------- | ------------- |
@@ -21,10 +21,10 @@ Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{gr
 | $${\color{red}SDA \space BRUTE}$$ | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
 | $${\color{green}CallingLineIdentity}$$ | [Stratégie d'identification de l'appelant](https://admin.teams.microsoft.com/policies/callinglineid) (Abrégé en "CLI") comme elle apparait dans la liste colonne **Nom** | 
 | $${\color{green}Site ID}$$| [Adresse d'Urgence](https://admin.teams.microsoft.com/locations) de l'emplacement au format xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx | 
-| $${\color{red}Policy}$$ | [Stratégie de routage des communicatons vocales](https://admin.teams.microsoft.com/policies/teamsonlinevoicerouting) comme elle apparait dans la liste colonne **Nom**  | 
+| $${\color{red}Policy}$$ | [Stratégie de routage des communications vocales](https://admin.teams.microsoft.com/policies/teamsonlinevoicerouting) comme elle apparait dans la liste colonne **Nom**  | 
 | $${\color{red}Dialplan}$$ | [Plan de numérotation](https://admin.teams.microsoft.com/policies/teamsdialplan) comme il apparait dans la liste colonne **Nom**| 
-| Get From PS | Horodatage de l'execution de la macro Get_From_PS sur cette ligne | 
-| Push To PS | Horodatage de l'execution de la macro Push_To_PS sur cette ligne | 
+| Get From PS | Horodatage de l'exécution de la macro Get_From_PS sur cette ligne | 
+| Push To PS | Horodatage de l'exécution de la macro Push_To_PS sur cette ligne | 
 | $${\color{lightblue}Options}$$ | Champ libre | 
 
 
