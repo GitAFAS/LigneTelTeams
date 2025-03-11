@@ -9,7 +9,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 ### Description des colonnes du document
 
 
-Utilisation : 
+# Utilisation des macros : 
 
 ## Bouton « PUSH TO PS »
 
