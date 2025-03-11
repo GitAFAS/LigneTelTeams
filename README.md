@@ -18,7 +18,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 | SDA | Numéro de téléphone en format human readable | 
 | SDA BRUTE | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
 | CallingLineIdentity | Abrégé en CLI | 
-| Site ID |  | 
+| Site ID | [Adresse d'Urgence](https://admin.teams.microsoft.com/locations) de l'emplacement | 
 | Policy |  | 
 | DialPlan | | 
 | Get From PS | Horodatage de l'execution de la macro Get_From_PS sur cette ligne | 
