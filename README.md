@@ -8,7 +8,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 
 ### Description des colonnes du document
 
-Les colonnes en rouge sont obligatoire, celles en verte sont optionnelles, celles en bleu ${\textsf{\color{lightgreen}Green}}$ ne sont pas utilisés par les scripts.
+Les colonnes en rouge sont obligatoire, celles en verte sont optionnelles, celles en bleu  $\textsf{\color{#f5750e}{Introduction}}$ ne sont pas utilisés par les scripts.
 
 | Nom de la colonne  | Description |
 | ------------- | ------------- |
