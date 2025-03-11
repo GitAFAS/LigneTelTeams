@@ -14,7 +14,17 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 | Nom  | Nom de l'utilisateur  |
 | Prénom | Prénom de l'utilisateur
 | Licence | Licence associée à l'utilisateur |
-| Mail | Il s'agit du *UserPrincipalName* utilisé avec le paramètre **-Identity**
+| Mail | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
+| SDA | Numéro de téléphone en format human readable | 
+| SDA BRUTE | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
+| CallingLineIdentity | Abrégé en CLI | 
+| Site ID |  | 
+| Policy |  | 
+| DialPlan | | 
+| Get From PS | Horodatage de l'execution de la macro Get_From_PS sur cette ligne | 
+| Push To PS | Horodatage de l'execution de la macro Push_To_PS sur cette ligne | 
+| Options | Champ libre | 
+
 
 # Utilisation des macros : 
 
