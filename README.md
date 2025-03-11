@@ -18,7 +18,7 @@ Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{gr
 | Licence | Licence associée à l'utilisateur |
 | $${\color{red}Mail}$$ | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
 | SDA | Numéro de téléphone en format human readable | 
-| $${\color{red}SDA \space BRUTE}&& | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
+| $${\color{red}SDA \space Brute}$$ | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
 | CallingLineIdentity | [Stratégie d'identification de l'appelant](https://admin.teams.microsoft.com/policies/callinglineid) (Abrégé en "CLI") comme elle apparait dans la liste colonne **Nom** | 
 | Site ID | [Adresse d'Urgence](https://admin.teams.microsoft.com/locations) de l'emplacement au format xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx | 
 | Policy | [Stratégie de routage des communicatons vocales](https://admin.teams.microsoft.com/policies/teamsonlinevoicerouting) comme elle apparait dans la liste colonne **Nom**  | 
