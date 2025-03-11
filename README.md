@@ -17,7 +17,7 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 | Mail | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
 | SDA | Numéro de téléphone en format human readable | 
 | SDA BRUTE | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
-| CallingLineIdentity | Abrégé en CLI, [Stratégie d'identification de l'appelant](https://admin.teams.microsoft.com/policies/callinglineid) comme elle apparait dans la liste colonne **Nom** | 
+| CallingLineIdentity | [Stratégie d'identification de l'appelant](https://admin.teams.microsoft.com/policies/callinglineid) (Abrégé en "CLI") comme elle apparait dans la liste colonne **Nom** | 
 | Site ID | [Adresse d'Urgence](https://admin.teams.microsoft.com/locations) de l'emplacement au format xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx | 
 | Policy | [Stratégie de routage des communicatons vocales](https://admin.teams.microsoft.com/policies/teamsonlinevoicerouting) comme elle apparait dans la liste colonne **Nom**  | 
 | DialPlan | [Plan de numérotation](https://admin.teams.microsoft.com/policies/teamsdialplan) comme il apparait dans la liste colonne **Nom**| 
