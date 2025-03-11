@@ -8,6 +8,13 @@ Gestion des lignes téléphoniques Microsoft Teams avec un excel
 
 ### Description des colonnes du document
 
+| Nom de la colonne  | Description |
+| ------------- | ------------- |
+| Site  | Site géographique de l'utilisateur  |
+| Nom  | Nom de l'utilisateur  |
+| Prénom | Prénom de l'utilisateur
+| Licence | Licence associée à l'utilisateur |
+| Mail | Il s'agit du * *UserPrincipalName* * utilisé avec le paramètre **-Identity**
 
 # Utilisation des macros : 
 
