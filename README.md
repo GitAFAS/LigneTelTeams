@@ -12,10 +12,10 @@ Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{gr
 
 | Nom de la colonne  | Description |
 | ------------- | ------------- |
-| Site  | Site géographique de l'utilisateur  |
-| Nom  | Nom de l'utilisateur  |
-| Prénom | Prénom de l'utilisateur
-| Licence | Licence associée à l'utilisateur |
+| $${\color{lightblue}Site}$$  | Site géographique de l'utilisateur  |
+| $${\color{lightblue}Nom }$$ | Nom de l'utilisateur  |
+| $${\color{lightblue}Prénom}$$ | Prénom de l'utilisateur
+| $${\color{lightblue}Licence}$$ | Licence associée à l'utilisateur |
 | $${\color{red}Mail}$$ | Il s'agit du _UserPrincipalName_ utilisé avec le paramètre **-Identity** | 
 | SDA | Numéro de téléphone en format human readable | 
 | $${\color{red}SDA \space BRUTE}$$ | Numéro de téléphone en format accepté par teams utilisé avec le paramètre -PhoneNumber | 
@@ -25,7 +25,7 @@ Les colonnes en $${\color{red}rouge}$$ sont obligatoires, celles en $${\color{gr
 | $${\color{red}Dialplan}$$ | [Plan de numérotation](https://admin.teams.microsoft.com/policies/teamsdialplan) comme il apparait dans la liste colonne **Nom**| 
 | Get From PS | Horodatage de l'execution de la macro Get_From_PS sur cette ligne | 
 | Push To PS | Horodatage de l'execution de la macro Push_To_PS sur cette ligne | 
-| Options | Champ libre | 
+| $${\color{lightblue}Options}$$ | Champ libre | 
 
 
 # Utilisation des macros : 
